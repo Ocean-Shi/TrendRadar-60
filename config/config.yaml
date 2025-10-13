@@ -96,3 +96,5 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "huxiu"
+    name: "虎嗅"
